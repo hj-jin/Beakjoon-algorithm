@@ -1,6 +1,7 @@
 // 2022-05-14 고등학생 멘토 수업 준비//
 #include <stdio.h>
-main()
+#include <string.h>
+int main()
 {
     int i, loc;
     int cnt[26];
